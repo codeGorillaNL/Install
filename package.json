@@ -1,0 +1,29 @@
+{
+  "name": "cg-installer",
+  "version": "1.0.0",
+  "description": "This installs all global NPM modules required for your scaffolding tool.",
+  "main": "install.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeGorillaNL/install.git"
+  },
+  "keywords": [
+    "installer",
+    "scaffolding",
+    "codeGorilla"
+  ],
+  "author": "B. Leiting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeGorillaNL/install/issues"
+  },
+  "homepage": "https://github.com/codeGorillaNL/install#readme",
+  "dependencies": {
+    "package-script": "0.0.8",
+    "prompt": "^1.0.0",
+    "rimraf": "^2.6.1"
+  },
+  "scripts": {
+    "install": "node install.js"
+  }
+}
