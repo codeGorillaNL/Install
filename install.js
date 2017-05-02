@@ -49,6 +49,10 @@ var modules = [
 		name: 'generator-angular',
 		admin: true
 	},
+        {
+		name: 'generator-angular-fullstack',
+		admin: true
+	},
 	{
 		name: 'grunt-cli',
 		admin: true
