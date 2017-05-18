@@ -8,6 +8,9 @@ git clone https://github.com/codeGorillaNL/install
 ```
   4. From your command line ( Terminal or CMD ) run:
 ```
+cd install
+```
+```
 npm install
 ```
   5. All done, get some coffee. 
